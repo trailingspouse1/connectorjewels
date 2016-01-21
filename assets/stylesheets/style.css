@@ -1,0 +1,108 @@
+.other_color {
+    background:  #fff;
+  }
+.brand {
+	padding: 0px;
+}
+
+.navbar {
+	    background-color: #fff;
+        height: 50px;
+        padding: 10px 10px 0 10px;
+        font-size: 18px;
+        line-height: 0;
+        border: #fff;
+}
+
+.nav {
+	background-color: #fff;
+}
+
+.navbar_logo {
+	margin-bottom: 7px;
+	padding-bottom: 3px
+}
+
+body {
+	background-color: #fff;
+}
+
+.jumbotron {
+	background-color: #000;
+}
+
+.jtext { 	
+	color: #fff;  
+}
+
+.btn {
+	background-color: #ff0080
+}
+
+.jhead {
+	color: #fff;
+}
+
+footer {
+	margin-top: 0px;
+	margin-bottom: 1px;
+	padding: 0px;
+    background-color: #fff;
+	color: #000; 
+	font: bold 12px Arial;	
+}
+
+.page-header {
+	margin: 5px
+	 
+
+}
+ a:link {
+    color: #ff0080;
+   }
+
+ a:visited {
+    color: grey;
+   }
+
+ a:hover {
+    color: grey;
+   }
+
+ a:active {
+    color: #ff0080;
+   }
+
+.media-heading {
+	color: grey;
+}
+
+.caption {
+	font: bold 10px Arial;
+	text-align: left;	
+}	 
+
+.social {
+	position: absolute;
+	top: 0;
+	right:0;
+	margin: 20px 20px; 
+
+}
+
+.mobile {
+	display: none;
+}
+@media only screen and (max-width: 768px){
+
+     .social {
+     	position: relative;
+     	float: center;
+    
+     }
+
+     .mobile {	
+	 display: block;
+    }
+}
+
